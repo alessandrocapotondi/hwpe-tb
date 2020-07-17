@@ -45,8 +45,8 @@ Otherwise, you can build it following the commands indicated here:
 https://github.com/pulp-platform/pulp-riscv-gnu-toolchain
 
 ### Install from pulp-sdk sources
-If you have access to it, you can install a recent version of the SDK
-from `pulp-sdk`:
+If you have access to it, you can build a recent version of the SDK
+these sources:
 https://github.com/pulp-platform/pulp-sdk
 
 Then you can execute the following commands:
